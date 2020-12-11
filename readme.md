@@ -30,8 +30,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Ik ben nu bezig om uit te vogelen hoe ik de .merch section in een li zet en hoe ik een grid kan toevoegen met media queries. Het gaat mij niet soepel af, vandaar dat de code en de pagina er wat rommelig uit ziet
 
+Ook laat GitHub wat anders zien dan wat mijn code zegt dus hieronder een screenshot van wat ik bedoel:
+
+<img src="/css/img/Schermafbeelding%202020-12-11%20om%2014.18.41.png">
 
 
 ## Voortgang 1 (week 3)
