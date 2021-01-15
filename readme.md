@@ -77,7 +77,7 @@ Ik moet even mijn mapjes op GitHub fixen. En van twee classes op de eerste pagin
 
 **Je startniveau:** Blauw 
 
-**Je focus:** Surface plane
+**Je focus:** responsive
 
 **Je opdracht:** https://www.grandsonmusic.com/?frontpage=true
 
