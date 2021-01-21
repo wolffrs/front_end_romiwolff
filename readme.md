@@ -6,25 +6,21 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://codepen.io/erikterwan/pen/EVzeRP?editors=1100
+Erik Terwan 2015
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+De laatste paar weken van dit blok verliepen niet zo soepel als ik had gehoopt. Wel heb ik in mijn laatste fase plezier ervaren bij het uitvogelen van de code en het zoeken naar oplossingen.
 
-**Screenshot(s):**
-
--screenshot(s) van je eindresultaat-
 
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+-
 
 
 
