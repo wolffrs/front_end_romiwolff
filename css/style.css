@@ -564,6 +564,13 @@ input:focus {
     background-color: white;
 }
 
+.releases h2,
+.remixes h2,
+.acoustic h2,
+.live h2 {
+    display: none;
+}
+
 .musicvideo section article a {
     transition: 0.5s;
 }
