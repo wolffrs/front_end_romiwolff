@@ -68,11 +68,13 @@ div {
 }
 
 div.menuhidden {
+    position: fixed;
     margin-left: 0px;
 }
 
 button {
     position: fixed;
+    z-index: 1;
 
     background-image: url("img/hamburger_icon.png");
     background-color: black;
